@@ -1,0 +1,39 @@
+Player HP 		          -> 15
+Goblin HP 		          -> 30
+Ganondorf HP 		        -> 6000
+Goblin Defeated 	      -> 0
+Ganondorf Defeated 	    -> 0
+Silver Ring 		        -> 0
+Ganondorf Staff 	      -> 0
+Weapon 			            -> Knife
+Coins 			            -> 0
+Player Level		        -> 1
+Long Sword Obtained	    -> 0
+Spear Obtained		      -> 0
+Katana Obtained		      -> 0
+Wand Obtained		        -> 0
+Homeless Complete 	    -> 0
+Found Marthy		        -> 0
+Obtained Locket		      -> 0
+Did Tower Guard		      -> 0
+Has Drawer Key		      -> 0
+King's Sword		        -> 0
+Raider Defeated		      -> 0
+Raider HP		            -> 100
+Plus 5 Damage Bought	  -> 0
+Apple Bought 		        -> 0
+Extra Weapon Damage 	  -> 0
+Throne Key		          -> 0
+Question Asked		      -> 0
+Talked To Prisoner	    -> 0
+Talked To Dungeon Guard	-> 0
+Prisoner Free		        -> 0
+Demonic Dagger		      -> 0
+Did red			            -> 0
+Did yellow		          -> 0
+Did blue		            -> 0
+Super Key		            -> 0
+Basic Spells Read	      -> 0 
+Complex Spells Read	    -> 0
+Elemental Spells Read	  -> 0
+Throne Room Done 	      -> 0
